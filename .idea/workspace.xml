@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b623fba9-10b6-42d2-a0ea-e56fcc045691" name="Default Changelist" comment="" />
+    <list default="true" id="b623fba9-10b6-42d2-a0ea-e56fcc045691" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +64,41 @@
       <updated>1567351311496</updated>
       <workItem from="1567351315115" duration="679000" />
       <workItem from="1569688725752" duration="41000" />
+      <workItem from="1584287850150" duration="584000" />
     </task>
+    <task id="LOCAL-00001" summary="My commit">
+      <created>1584287880694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584287880694</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My commit">
+      <created>1584287919179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584287919179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My commit" />
   </component>
 </project>
